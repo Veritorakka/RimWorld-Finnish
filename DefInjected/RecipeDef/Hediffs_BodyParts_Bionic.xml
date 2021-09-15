@@ -9,11 +9,11 @@
   <InstallBionicArm.jobString>Asentaa bionista kättä.</InstallBionicArm.jobString>
   
   <!-- EN: install bionic ear -->
-  <InstallBionicEar.label>TODO</InstallBionicEar.label>
+  <InstallBionicEar.label>asenna bioninen korva</InstallBionicEar.label>
   <!-- EN: Install a bionic ear. -->
-  <InstallBionicEar.description>TODO</InstallBionicEar.description>
+  <InstallBionicEar.description>Asentaa bionisen korvan.</InstallBionicEar.description>
   <!-- EN: Installing bionic ear. -->
-  <InstallBionicEar.jobString>TODO</InstallBionicEar.jobString>
+  <InstallBionicEar.jobString>Asentaa bionista korvaa.</InstallBionicEar.jobString>
   
   <!-- EN: install bionic eye -->
   <InstallBionicEye.label>asenna bioninen silmä</InstallBionicEye.label>
@@ -25,9 +25,9 @@
   <!-- EN: install bionic heart -->
   <InstallBionicHeart.label>asenna bionisen sydämen</InstallBionicHeart.label>
   <!-- EN: Install a bionic heart. -->
-  <InstallBionicHeart.description>Asentaa bionisen sydämmen</InstallBionicHeart.description>
+  <InstallBionicHeart.description>Asentaa bionisen sydämmen.</InstallBionicHeart.description>
   <!-- EN: Installing bionic heart. -->
-  <InstallBionicHeart.jobString>Asentaa bionista sydäntä</InstallBionicHeart.jobString>
+  <InstallBionicHeart.jobString>Asentaa bionista sydäntä.</InstallBionicHeart.jobString>
   
   <!-- EN: install bionic leg -->
   <InstallBionicLeg.label>asenna bioninen jalka</InstallBionicLeg.label>
@@ -37,18 +37,18 @@
   <InstallBionicLeg.jobString>Asentaa bionista jalkaa.</InstallBionicLeg.jobString>
   
   <!-- EN: install bionic spine -->
-  <InstallBionicSpine.label>TODO</InstallBionicSpine.label>
+  <InstallBionicSpine.label>asenna bioninen selkäranka</InstallBionicSpine.label>
   <!-- EN: Install a bionic spine. -->
-  <InstallBionicSpine.description>TODO</InstallBionicSpine.description>
+  <InstallBionicSpine.description>Asentaa bionisen selkärangan.</InstallBionicSpine.description>
   <!-- EN: Installing bionic spine. -->
-  <InstallBionicSpine.jobString>TODO</InstallBionicSpine.jobString>
+  <InstallBionicSpine.jobString>Asentaa bionista selkärankaa.</InstallBionicSpine.jobString>
   
   <!-- EN: install bionic stomach -->
-  <InstallBionicStomach.label>TODO</InstallBionicStomach.label>
+  <InstallBionicStomach.label>asenna bioninen mahalaukku</InstallBionicStomach.label>
   <!-- EN: Install a bionic stomach. -->
-  <InstallBionicStomach.description>TODO</InstallBionicStomach.description>
+  <InstallBionicStomach.description>Asentaa bionisen mahalaukun.</InstallBionicStomach.description>
   <!-- EN: Installing bionic stomach. -->
-  <InstallBionicStomach.jobString>TODO</InstallBionicStomach.jobString>
+  <InstallBionicStomach.jobString>Asentaa bionista mahalaukkua.</InstallBionicStomach.jobString>
   
   <!-- EN: install death acidifier -->
   <InstallDeathAcidifier.label>TODO</InstallDeathAcidifier.label>

@@ -30,7 +30,7 @@
   <InstallPowerClaw.jobString>Asentaa voimakynttä.</InstallPowerClaw.jobString>
   
   <!-- EN: install prosthetic arm -->
-  <InstallSimpleProstheticArm.label>asenna yksinkertainen tek käsi</InstallSimpleProstheticArm.label>
+  <InstallSimpleProstheticArm.label>asenna yksinkertainen tekokäsi</InstallSimpleProstheticArm.label>
   <!-- EN: Install a prosthetic arm. -->
   <InstallSimpleProstheticArm.description>Asentaa yksinkertaisen tekokäden.</InstallSimpleProstheticArm.description>
   <!-- EN: Installing prosthetic arm. -->
