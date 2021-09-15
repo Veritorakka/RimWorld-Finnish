@@ -2,12 +2,12 @@
 <LanguageData>
   
   <!-- EN: recruit -->
-  <AttemptRecruit.label>TODO</AttemptRecruit.label>
+  <AttemptRecruit.label>värvää</AttemptRecruit.label>
   <!-- EN: Wardens will attempt to recruit the prisoner. If the prisoner still has resistance, wardens will speak to them to reduce it. -->
-  <AttemptRecruit.description>TODO</AttemptRecruit.description>
+  <AttemptRecruit.description>Vartia yrittää värvätä vangin, jos vanki vielä vastustelee vartia puhuu vangille ettei tämä enää vastustelisi.</AttemptRecruit.description>
   
   <!-- EN: execute -->
-  <Execution.label>TODO</Execution.label>
+  <Execution.label>teloita</Execution.label>
   <!-- EN: A warden will execute the prisoner on the spot by cutting. This can affect the mood of other prisoners and colonists. -->
   <Execution.description>TODO</Execution.description>
   
@@ -22,8 +22,8 @@
   <ReduceResistance.description>TODO</ReduceResistance.description>
   
   <!-- EN: release -->
-  <Release.label>TODO</Release.label>
+  <Release.label>vapauta</Release.label>
   <!-- EN: A warden will release the prisoner. -->
-  <Release.description>TODO</Release.description>
+  <Release.description>Vartia vapauttaa vangin.</Release.description>
   
 </LanguageData>

@@ -5,15 +5,15 @@
   <Belt.label>vyö</Belt.label>
   
   <!-- EN: middle -->
-  <Middle.label>keskimmäinen</Middle.label>
+  <Middle.label>keskimmäinenkerros</Middle.label>
   
   <!-- EN: skin -->
-  <OnSkin.label>nahka</OnSkin.label>
+  <OnSkin.label>alinkerros</OnSkin.label>
   
   <!-- EN: headgear -->
-  <Overhead.label>päähine</Overhead.label>
+  <Overhead.label>Päähine</Overhead.label>
   
   <!-- EN: outer -->
-  <Shell.label>ulompi</Shell.label>
+  <Shell.label>päällyskerros</Shell.label>
   
 </LanguageData>
