@@ -191,9 +191,9 @@
   <CannotRescue>Ei voi pelastaa</CannotRescue>
 
   <!-- EN: Carry {1_label} to cryptosleep casket -->
-  <CarryToCryptosleepCasket>Kanna {1_label} salauniarkkuun</CarryToCryptosleepCasket>
+  <CarryToCryptosleepCasket>Kanna {1_label} syväuniarkkuun</CarryToCryptosleepCasket>
   <!-- EN: Cannot carry to cryptosleep casket -->
-  <CannotCarryToCryptosleepCasket>Ei voi kantaa salauniarkkuun</CannotCarryToCryptosleepCasket>
+  <CannotCarryToCryptosleepCasket>Ei voi kantaa syväuniarkkuun</CannotCarryToCryptosleepCasket>
 
   <!-- EN: Carry {0_label} to shuttle -->
   <CarryToShuttle>Kanna {0_label} sukkulaan</CarryToShuttle>

@@ -5,13 +5,13 @@
   <AnimalProductRaw.label>eläintuotteet</AnimalProductRaw.label>
   
   <!-- EN: animals -->
-  <Animals.label>TODO</Animals.label>
+  <Animals.label>eläimet</Animals.label>
   
   <!-- EN: apparel -->
   <Apparel.label>vaatteet</Apparel.label>
   
   <!-- EN: armor -->
-  <ApparelArmor.label>TODO</ApparelArmor.label>
+  <ApparelArmor.label>panssarit</ApparelArmor.label>
   
   <!-- EN: noble apparel -->
   <ApparelNoble.label>TODO</ApparelNoble.label>
@@ -20,7 +20,7 @@
   <ApparelUtility.label>TODO</ApparelUtility.label>
   
   <!-- EN: headgear -->
-  <ArmorHeadgear.label>TODO</ArmorHeadgear.label>
+  <ArmorHeadgear.label>kypärät</ArmorHeadgear.label>
   
   <!-- EN: artifacts -->
   <Artifacts.label>artifacts</Artifacts.label>
@@ -29,10 +29,10 @@
   <BodyParts.label>ruumiinosat</BodyParts.label>
   
   <!-- EN: archotech -->
-  <BodyPartsArchotech.label>TODO</BodyPartsArchotech.label>
+  <BodyPartsArchotech.label>archotekninen</BodyPartsArchotech.label>
   
   <!-- EN: bionic -->
-  <BodyPartsBionic.label>TODO</BodyPartsBionic.label>
+  <BodyPartsBionic.label>bioninen</BodyPartsBionic.label>
   
   <!-- EN: natural -->
   <BodyPartsNatural.label>natural</BodyPartsNatural.label>
@@ -44,7 +44,7 @@
   <BodyPartsSimple.label>TODO</BodyPartsSimple.label>
   
   <!-- EN: ultratech -->
-  <BodyPartsUltra.label>TODO</BodyPartsUltra.label>
+  <BodyPartsUltra.label>ultratekninen</BodyPartsUltra.label>
   
   <!-- EN: buildings -->
   <Buildings.label>TODO</Buildings.label>

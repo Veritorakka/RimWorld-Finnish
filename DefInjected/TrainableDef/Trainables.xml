@@ -12,7 +12,7 @@
   <Obedience.description>Eläimelle voidaan määrätä isäntä jota se seuraa ja puolustaa.</Obedience.description>
   
   <!-- EN: attack -->
-  <Release.label>vapautus</Release.label>
+  <Release.label>hyökkää</Release.label>
   <!-- EN: The animal can be released to attack distant targets instead of just guarding its master. -->
   <Release.description>Eläin voidaan laskea vapaaksi hyökätäkseen etäisten kohteiden kimppuun pelkästään isäntänsä puolustamisen sijaan.</Release.description>
   

@@ -98,9 +98,9 @@
   <!-- EN: Raw butchered flesh. Can be cooked into meals, or eaten raw. -->
   <MeatDesc>Raakaa teurastettua lihaa. Voidaan valmistaa aterioiksi tai syödä raakana.</MeatDesc>
   <!-- EN: Raw butchered flesh. If necessary, can be cooked into meals, or even eaten raw. Extremely unappetizing. -->
-  <MeatInsectDesc>Raakaa teurastettua lihaa. Voidaan tarvittaessa valmistaa aterioiksi tai jopa syödä raakana. Äärimmäisen epämiellyttävää.</MeatInsectDesc>
+  <MeatInsectDesc>Raakaa teurastettua ötökänlihaa. Voidaan tarvittaessa valmistaa aterioiksi tai jopa syödä raakana. Äärimmäisen epämiellyttävää.</MeatInsectDesc>
   <!-- EN: Raw butchered flesh. Can be cooked into meals or eaten raw, although most humans dislike the idea. -->
-  <MeatHumanDesc>Raakaa teurastettua lihaa. Voidaan valmistaa aterioiksi tai jopa syödä raakana, vaikka ihmiset inhoavat ajatusta.</MeatHumanDesc>
+  <MeatHumanDesc>Raakaa teurastettua ihmislihaa. Voidaan valmistaa aterioiksi tai jopa syödä raakana, vaikka ihmiset inhoavat ajatusta.</MeatHumanDesc>
 
   <!-- EN: techprint ({PROJECT_label}) -->
   <TechprintLabel>teknopiirustus ({PROJECT_label})</TechprintLabel>
