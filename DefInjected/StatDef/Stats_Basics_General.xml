@@ -9,7 +9,7 @@
   <!-- EN: cleanliness -->
   <Cleanliness.label>puhtaus</Cleanliness.label>
   <!-- EN: How much an object contributes to an area's cleanliness score. -->
-  <Cleanliness.description>Miten puhdas esine on.</Cleanliness.description>
+  <Cleanliness.description>Miten puhdas alue on.</Cleanliness.description>
   
   <!-- EN: comfort -->
   <Comfort.label>mukavuus</Comfort.label>
@@ -21,7 +21,7 @@
   <!-- EN: The rate at which this item deteriorates when left outside, in average hit points of damage per day.\n\nDeterioration rate is also affected by things like weather, roofs, toxic fallout, or being left in shallow water. -->
   <DeteriorationRate.description>Nopeus jolla tämä esine menee huonommaksi ulos jätettynä, varsinkin sateessa.</DeteriorationRate.description>
   <!-- EN: {0} / day -->
-  <DeteriorationRate.formatString>{0} / day</DeteriorationRate.formatString>
+  <DeteriorationRate.formatString>{0} / päivää</DeteriorationRate.formatString>
   
   <!-- EN: flammability -->
   <Flammability.label>syttymisherkkyys</Flammability.label>
@@ -29,7 +29,7 @@
   <Flammability.description>Miten helposti esine syttyy tuleen ja miten vahvasti se palaa.</Flammability.description>
   
   <!-- EN: food poison chance -->
-  <FoodPoisonChanceFixedHuman.label>TODO</FoodPoisonChanceFixedHuman.label>
+  <FoodPoisonChanceFixedHuman.label>ruokamyrkytyksen todennäköisyys</FoodPoisonChanceFixedHuman.label>
   <!-- EN: The chance this food will cause food poisoning. -->
   <FoodPoisonChanceFixedHuman.description>TODO</FoodPoisonChanceFixedHuman.description>
   <!-- EN: food poison chance (food stat) -->
